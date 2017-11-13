@@ -59,6 +59,7 @@ public class Algorithms {
 	}
 
 	public static List<String> sortDNA(List<String> unsortedSequences){
+		return unsortedSequences;
 		
 	}
 	
